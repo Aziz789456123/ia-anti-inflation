@@ -1,0 +1,270 @@
+marque,modele,motorisation,conso_ville,unite,nb_versions
+Alfa Romeo,GIULIA,Diesel,6.2,L/100 km,18
+Alfa Romeo,GIULIA,Essence,9.2,L/100 km,22
+Alfa Romeo,STELVIO,Diesel,6.8,L/100 km,38
+Alfa Romeo,STELVIO,Essence,10.3,L/100 km,10
+Alpine,A110,Essence,8.4,L/100 km,11
+Audi,A3,Diesel,5.9,L/100 km,8
+Audi,A3,Hybride essence,6.5,L/100 km,8
+Audi,A3,Hybride rechargeable essence,1.4,L/100 km,4
+Audi,E-TRON GT,Électrique,21.7,kWh/100 km,2
+Audi,Q3,Essence,7.1,L/100 km,1
+BMW,116,Diesel,5.4,L/100 km,1
+BMW,116,Essence,7.1,L/100 km,62
+BMW,118,Essence,7.2,L/100 km,114
+BMW,120,Essence,7.8,L/100 km,60
+BMW,128,Essence,8.6,L/100 km,12
+BMW,135,Essence,9.1,L/100 km,2
+BMW,218,Diesel,5.9,L/100 km,15
+BMW,218,Essence,7.2,L/100 km,50
+BMW,220,Essence,7.8,L/100 km,61
+BMW,220,Hybride diesel,5.3,L/100 km,9
+BMW,220,Hybride essence,7.3,L/100 km,15
+BMW,225,Hybride rechargeable essence,0.7,L/100 km,3
+BMW,235,Essence,9.0,L/100 km,3
+BMW,240,Essence,10.7,L/100 km,9
+BMW,316,Hybride diesel,6.0,L/100 km,3
+BMW,318,Essence,8.5,L/100 km,4
+BMW,318,Hybride diesel,5.9,L/100 km,9
+BMW,320,Hybride diesel,6.2,L/100 km,14
+BMW,320,Hybride rechargeable essence,1.7,L/100 km,5
+BMW,330,Hybride diesel,7.1,L/100 km,11
+BMW,330,Hybride rechargeable essence,1.8,L/100 km,12
+BMW,340,Hybride diesel,8.2,L/100 km,7
+BMW,340,Hybride essence,10.3,L/100 km,3
+BMW,420,Essence,8.4,L/100 km,64
+BMW,420,Hybride diesel,5.8,L/100 km,101
+BMW,430,Hybride diesel,6.8,L/100 km,36
+BMW,440,Hybride diesel,7.8,L/100 km,14
+BMW,440,Hybride essence,10.2,L/100 km,44
+BMW,518,Hybride diesel,6.0,L/100 km,7
+BMW,520,Hybride diesel,6.5,L/100 km,28
+BMW,520,Hybride essence,8.1,L/100 km,7
+BMW,530,Hybride diesel,7.4,L/100 km,19
+BMW,530,Hybride rechargeable essence,2.0,L/100 km,34
+BMW,540,Hybride diesel,7.7,L/100 km,22
+BMW,840,Essence,11.1,L/100 km,4
+BMW,840,Hybride diesel,8.3,L/100 km,11
+BMW,850,Essence,14.5,L/100 km,2
+BMW,IX3,Électrique,18.9,kWh/100 km,1
+BMW,IX,Électrique,22.5,kWh/100 km,4
+BMW,M3,Essence,12.8,L/100 km,10
+BMW,M4,Essence,12.8,L/100 km,17
+BMW,M8,Essence,16.2,L/100 km,6
+BMW,X1,Diesel,6.1,L/100 km,10
+BMW,X1,Essence,7.9,L/100 km,11
+BMW,X1,Hybride diesel,5.9,L/100 km,4
+BMW,X1,Hybride essence,8.2,L/100 km,6
+BMW,X2,Diesel,6.0,L/100 km,83
+BMW,X2,Essence,7.8,L/100 km,85
+BMW,X3,Essence,13.3,L/100 km,2
+BMW,X3,Hybride diesel,6.5,L/100 km,107
+BMW,X3,Hybride essence,9.0,L/100 km,29
+BMW,X4,Essence,13.3,L/100 km,6
+BMW,X4,Hybride diesel,7.5,L/100 km,64
+BMW,X4,Hybride essence,9.1,L/100 km,17
+BMW,Z4,Essence,8.4,L/100 km,4
+Citroën,BERLINGO,Diesel,5.2,L/100 km,4
+Citroën,BERLINGO,Électrique,20.7,kWh/100 km,4
+Citroën,C3 AIRCROSS,Diesel,5.2,L/100 km,8
+Citroën,C3,Diesel,4.5,L/100 km,1
+Citroën,C3,Essence,5.8,L/100 km,21
+Citroën,C4 X,Diesel,5.3,L/100 km,2
+Citroën,C4 X,Électrique,15.5,kWh/100 km,1
+Citroën,C4,Diesel,4.5,L/100 km,4
+Citroën,C4,Électrique,15.5,kWh/100 km,4
+Citroën,C5 AIRCROSS,Hybride rechargeable essence,1.5,L/100 km,3
+Citroën,C5 X,Essence,7.8,L/100 km,3
+Citroën,SPACE TOURER,Électrique,27.1,kWh/100 km,6
+Cupra,FORMENTOR,Essence,9.0,L/100 km,7
+Dacia,JOGGER,Essence,5.9,L/100 km,4
+Dacia,JOGGER,GPL,6.5,L/100 km,13
+Dacia,LODGY,Diesel,5.1,L/100 km,2
+Dacia,SANDERO,Essence,5.9,L/100 km,14
+Dacia,SANDERO,GPL,6.9,L/100 km,8
+Dacia,SPRING,Électrique,13.9,kWh/100 km,2
+DS,3 CROSSBACK,Diesel,5.2,L/100 km,3
+DS,3 CROSSBACK,Électrique,15.6,kWh/100 km,4
+DS,4,Essence,7.8,L/100 km,5
+DS,7 CROSSBACK,Hybride rechargeable essence,1.5,L/100 km,3
+DS,9,Essence,7.9,L/100 km,8
+DS,9,Hybride rechargeable essence,1.1,L/100 km,5
+Ferrari,812,Essence,21.7,L/100 km,2
+Ferrari,F8,Essence,16.8,L/100 km,2
+Ferrari,MONZA,Essence,20.6,L/100 km,2
+Fiat,500,Hybride essence,5.0,L/100 km,39
+Fiat,500,Électrique,14.4,kWh/100 km,10
+Fiat,PANDA,Hybride essence,5.0,L/100 km,31
+Ford,ECOSPORT,Essence,6.4,L/100 km,22
+Ford,EXPLORER,Hybride rechargeable essence,3.1,L/100 km,1
+Ford,FIESTA,Essence,7.2,L/100 km,10
+Ford,FIESTA,Hybride essence,5.9,L/100 km,24
+Ford,FIESTA,Superéthanol E85,8.4,L/100 km,67
+Ford,FOCUS,Hybride essence,6.0,L/100 km,2
+Ford,GALAXY,Hybride essence,7.2,L/100 km,1
+Ford,GT,Essence,19.9,L/100 km,1
+Ford,KUGA,Hybride essence,6.9,L/100 km,20
+Ford,KUGA,Hybride rechargeable essence,1.1,L/100 km,5
+Ford,MUSTANG,Essence,16.1,L/100 km,1
+Ford,S-MAX,Hybride essence,7.2,L/100 km,1
+Ford,TOURNEO CONNECT,Diesel,5.5,L/100 km,7
+Ford,TOURNEO CONNECT,Essence,7.6,L/100 km,2
+Ford,TRANSIT CUSTOM,Diesel,8.0,L/100 km,25
+Ford,TRANSIT CUSTOM,Hybride diesel,7.6,L/100 km,9
+Honda,CIVIC,Hybride essence,4.3,L/100 km,3
+Honda,CR-V,Hybride essence,6.2,L/100 km,5
+Honda,E,Électrique,17.6,kWh/100 km,4
+Honda,HR-V,Hybride essence,4.4,L/100 km,1
+Honda,JAZZ,Hybride essence,3.9,L/100 km,5
+Hyundai,I 10,Essence,5.7,L/100 km,7
+Hyundai,I 30,Hybride essence,6.2,L/100 km,10
+Hyundai,SANTA FE,Hybride essence,6.2,L/100 km,10
+Hyundai,SANTA FE,Hybride rechargeable essence,1.6,L/100 km,1
+Hyundai,TUCSON,Hybride diesel,5.2,L/100 km,17
+Hyundai,TUCSON,Hybride essence,7.0,L/100 km,21
+Hyundai,TUCSON,Hybride rechargeable essence,1.4,L/100 km,2
+Jeep,COMPASS,Hybride essence,5.3,L/100 km,3
+Jeep,COMPASS,Hybride rechargeable essence,1.9,L/100 km,7
+Jeep,RENEGADE,Hybride essence,5.5,L/100 km,10
+Jeep,RENEGADE,Hybride rechargeable essence,2.0,L/100 km,6
+Kia,CEED,Essence,6.5,L/100 km,14
+Kia,CEED,Hybride diesel,5.0,L/100 km,16
+Kia,CEED,Hybride rechargeable essence,1.3,L/100 km,2
+Kia,EV6,Électrique,17.2,kWh/100 km,6
+Kia,NIRO,Hybride essence,4.2,L/100 km,8
+Kia,NIRO,Hybride rechargeable essence,0.9,L/100 km,5
+Kia,NIRO,Électrique,15.9,kWh/100 km,5
+Kia,PICANTO,Essence,5.7,L/100 km,24
+Kia,PROCEED,Essence,6.5,L/100 km,5
+Kia,RIO,Essence,6.0,L/100 km,18
+Kia,RIO,Hybride essence,5.7,L/100 km,6
+Kia,SORENTO,Hybride essence,6.4,L/100 km,7
+Kia,SORENTO,Hybride rechargeable essence,1.6,L/100 km,2
+Kia,SOUL,Électrique,15.7,kWh/100 km,2
+Kia,SPORTAGE,Hybride diesel,5.2,L/100 km,11
+Kia,SPORTAGE,Hybride essence,5.8,L/100 km,24
+Kia,SPORTAGE,Hybride rechargeable essence,1.1,L/100 km,2
+Kia,STONIC,Essence,6.2,L/100 km,13
+Kia,STONIC,Hybride essence,6.0,L/100 km,14
+Kia,XCEED,Essence,6.6,L/100 km,5
+Kia,XCEED,Hybride diesel,5.2,L/100 km,9
+Kia,XCEED,Hybride rechargeable essence,1.5,L/100 km,4
+Lamborghini,AVENTADOR,Essence,26.4,L/100 km,3
+Lamborghini,AVENTADOR,Hybride essence,28.4,L/100 km,1
+Lamborghini,URUS,Essence,16.8,L/100 km,3
+Land Rover,DEFENDER,Hybride rechargeable essence,2.8,L/100 km,5
+Lexus,NX,Hybride essence,6.9,L/100 km,2
+Lexus,RX,Hybride essence,7.5,L/100 km,6
+MG,MARVEL,Électrique,20.2,kWh/100 km,4
+MG,ZS,Essence,6.7,L/100 km,2
+Maserati,GHIBLI,Hybride essence,11.3,L/100 km,1
+Maserati,GRECALE,Essence,14.5,L/100 km,1
+Maserati,GRECALE,Hybride essence,11.1,L/100 km,5
+Mazda,CX-5,Diesel,6.7,L/100 km,3
+Mazda,CX-60,Hybride rechargeable essence,1.6,L/100 km,2
+Mazda,MX-30,Électrique,17.9,kWh/100 km,2
+Mercedes,E 200,Hybride diesel,6.5,L/100 km,15
+Mercedes,E 300,Hybride rechargeable diesel,1.3,L/100 km,1
+Mercedes,E 300,Hybride rechargeable essence,1.5,L/100 km,1
+Mercedes,E 400,Diesel,9.0,L/100 km,3
+Mercedes,E 53 AMG,Hybride essence,11.8,L/100 km,2
+Mercedes,EQA 250,Électrique,17.1,kWh/100 km,1
+Mercedes,EQA 350,Électrique,18.9,kWh/100 km,1
+Mercedes,EQB 350,Électrique,18.9,kWh/100 km,1
+Mini,CABRIO,Essence,7.4,L/100 km,50
+Mini,CLUBMAN,Essence,7.7,L/100 km,30
+Mini,COUNTRYMAN,Diesel,5.8,L/100 km,51
+Mini,COUNTRYMAN,Essence,7.7,L/100 km,84
+Mini,MINI,Essence,6.9,L/100 km,156
+Mini,MINI,Électrique,16.6,kWh/100 km,2
+Mitsubishi,SPACE STAR,Essence,5.2,L/100 km,5
+Nissan,ARIYA,Électrique,16.3,kWh/100 km,2
+Nissan,JUKE,Essence,6.5,L/100 km,12
+Nissan,LEAF,Électrique,15.2,kWh/100 km,4
+Nissan,MICRA,Essence,6.0,L/100 km,9
+Nissan,PRIMASTAR,Diesel,7.9,L/100 km,2
+Nissan,QASHQAI,Hybride essence,7.5,L/100 km,17
+Nissan,TOWNSTAR,Essence,7.5,L/100 km,3
+Opel,CORSA,Essence,5.9,L/100 km,3
+Opel,CORSA,Électrique,15.9,kWh/100 km,4
+Opel,CROSSLAND X,Diesel,4.6,L/100 km,4
+Opel,CROSSLAND X,Essence,6.3,L/100 km,4
+Opel,GRANDLAND,Diesel,5.7,L/100 km,6
+Opel,MOKKA,Essence,6.0,L/100 km,2
+Opel,MOKKA,Électrique,15.6,kWh/100 km,4
+Peugeot,2008,Diesel,4.9,L/100 km,23
+Peugeot,2008,Essence,6.8,L/100 km,1
+Peugeot,2008,Électrique,15.6,kWh/100 km,4
+Peugeot,208,Diesel,4.3,L/100 km,5
+Peugeot,208,Essence,5.9,L/100 km,14
+Peugeot,208,Électrique,15.6,kWh/100 km,6
+Peugeot,3008,Hybride rechargeable essence,1.5,L/100 km,6
+Peugeot,308,Diesel,4.8,L/100 km,7
+Peugeot,308,Essence,6.2,L/100 km,6
+Peugeot,508,Essence,7.0,L/100 km,5
+Peugeot,508,Hybride rechargeable essence,1.4,L/100 km,9
+Peugeot,RIFTER,Diesel,5.2,L/100 km,8
+Peugeot,RIFTER,Essence,6.9,L/100 km,1
+Peugeot,RIFTER,Électrique,20.7,kWh/100 km,2
+Peugeot,TRAVELLER,Électrique,27.1,kWh/100 km,3
+Porsche,911,Essence,14.4,L/100 km,51
+Porsche,MACAN,Essence,13.1,L/100 km,15
+Porsche,PANAMERA,Hybride rechargeable essence,2.3,L/100 km,38
+Porsche,TAYCAN,Électrique,23.5,kWh/100 km,13
+Renault,ARKANA,Hybride essence,5.7,L/100 km,18
+Renault,AUSTRAL,Hybride essence,6.8,L/100 km,3
+Renault,CAPTUR,Essence,6.2,L/100 km,12
+Renault,CAPTUR,Hybride essence,6.7,L/100 km,37
+Renault,CAPTUR,Hybride rechargeable essence,1.4,L/100 km,2
+Renault,CLIO,Diesel,4.6,L/100 km,8
+Renault,CLIO,Essence,6.0,L/100 km,14
+Renault,CLIO,GPL,7.3,L/100 km,4
+Renault,CLIO,Hybride essence,4.2,L/100 km,9
+Renault,ESPACE,Diesel,7.0,L/100 km,10
+Renault,KANGOO,Diesel,5.7,L/100 km,27
+Renault,KANGOO,Essence,7.5,L/100 km,33
+Renault,KANGOO,GPL,7.5,L/100 km,1
+Renault,KOLEOS,Essence,7.5,L/100 km,3
+Renault,MEGANE,Diesel,5.2,L/100 km,19
+Renault,MEGANE,Essence,7.0,L/100 km,14
+Renault,MEGANE,Hybride rechargeable essence,1.4,L/100 km,5
+Renault,MEGANE,Électrique,15.9,kWh/100 km,12
+Renault,SCENIC,Essence,7.2,L/100 km,12
+Renault,TALISMAN,Diesel,6.7,L/100 km,3
+Renault,TALISMAN,Essence,7.2,L/100 km,2
+Renault,TRAFIC,Diesel,7.7,L/100 km,68
+Renault,TWINGO,Essence,5.6,L/100 km,4
+Renault,TWINGO,Électrique,15.3,kWh/100 km,6
+Renault,ZOE,Électrique,17.4,kWh/100 km,4
+Rolls-Royce,CULLINAN,Essence,23.0,L/100 km,1
+Rolls-Royce,DAWN,Essence,23.4,L/100 km,1
+Skoda,KAMIQ,Essence,6.8,L/100 km,3
+Skoda,KAROQ,Diesel,5.7,L/100 km,13
+Skoda,KAROQ,Essence,7.0,L/100 km,54
+Skoda,KODIAQ,Diesel,6.6,L/100 km,17
+Skoda,KODIAQ,Essence,10.8,L/100 km,4
+Skoda,OCTAVIA,Diesel,5.5,L/100 km,1
+Skoda,OCTAVIA,Essence,6.1,L/100 km,3
+Skoda,OCTAVIA,Hybride essence,6.2,L/100 km,14
+Skoda,SCALA,Essence,6.7,L/100 km,1
+Subaru,FORESTER,Hybride essence,8.1,L/100 km,1
+Subaru,SOLTERRA,Électrique,17.0,kWh/100 km,1
+Suzuki,IGNIS,Hybride essence,4.8,L/100 km,4
+Suzuki,SWACE,Hybride essence,4.0,L/100 km,2
+Suzuki,SWIFT,Hybride essence,5.2,L/100 km,4
+Suzuki,SX4,Hybride essence,5.7,L/100 km,11
+Suzuki,VITARA,Hybride essence,6.8,L/100 km,3
+Tesla,MODEL 3,Électrique,14.4,kWh/100 km,3
+Toyota,C-HR,Hybride essence,4.3,L/100 km,8
+Toyota,CAMRY,Hybride essence,5.4,L/100 km,3
+Toyota,YARIS CROSS,Hybride essence,3.5,L/100 km,18
+Toyota,YARIS,Essence,5.9,L/100 km,8
+Toyota,YARIS,Hybride essence,3.3,L/100 km,14
+Volkswagen,CADDY,Diesel,6.0,L/100 km,36
+Volkswagen,CADDY,Essence,7.8,L/100 km,21
+Volkswagen,T-ROC,Diesel,6.0,L/100 km,18
+Volkswagen,T-ROC,Essence,7.2,L/100 km,38
+Volkswagen,TOURAN,Diesel,6.3,L/100 km,9
+Volkswagen,TOURAN,Essence,7.6,L/100 km,4
+Volvo,XC60,Hybride diesel,6.9,L/100 km,11
+Volvo,XC90,Hybride diesel,7.8,L/100 km,7

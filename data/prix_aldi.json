@@ -1,0 +1,441 @@
+{
+ "enseigne": "Aldi",
+ "source": "Fiches produits publiques du site aldi.fr",
+ "type_prix": "Prix affiché sur aldi.fr (prix national Aldi France)",
+ "collecte_le": "2026-10-18T13:45:00+02:00",
+ "methode": "Lecture automatique des fiches produits autorisées par le fichier robots.txt d'aldi.fr, une page à la fois.",
+ "produits": {
+  "spaghettis-1905": {
+   "nom": "SPAGHETTIS",
+   "marque": "CUCINA®",
+   "unite_vente": "500G",
+   "prix": 0.69,
+   "prix_base": {
+    "valeur": 1.38,
+    "par": "KG"
+   },
+   "valide_jusqu_au": "2026-11-17",
+   "url": "https://www.aldi.fr/fiches-produits/spaghettis-1905.html"
+  },
+  "penne-5006294": {
+   "nom": "PENNE",
+   "marque": "CUCINA®",
+   "unite_vente": "500G",
+   "prix": 0.55,
+   "prix_base": {
+    "valeur": 1.1,
+    "par": "KG"
+   },
+   "valide_jusqu_au": "2026-11-17",
+   "url": "https://www.aldi.fr/fiches-produits/penne-5006294.html"
+  },
+  "penne-5023264": {
+   "nom": "Penne",
+   "marque": "CUCINA®",
+   "unite_vente": "500G",
+   "prix": 0.99,
+   "prix_base": {
+    "valeur": 1.98,
+    "par": "KG"
+   },
+   "valide_jusqu_au": "2026-11-17",
+   "url": "https://www.aldi.fr/fiches-produits/penne-5023264.html"
+  },
+  "riz-thai-2597": {
+   "nom": "Riz Thaï",
+   "marque": "BON-RI®",
+   "unite_vente": "1KG",
+   "prix": 1.49,
+   "prix_base": {
+    "valeur": 1.49,
+    "par": "KG"
+   },
+   "valide_jusqu_au": "2026-11-17",
+   "url": "https://www.aldi.fr/fiches-produits/riz-thai-2597.html"
+  },
+  "riz-long-grain-7925": {
+   "nom": "RIZ LONG GRAIN",
+   "marque": "BON-RI®",
+   "unite_vente": "1KG",
+   "prix": 1.65,
+   "prix_base": {
+    "valeur": 1.65,
+    "par": "KG"
+   },
+   "valide_jusqu_au": "2026-11-17",
+   "url": "https://www.aldi.fr/fiches-produits/riz-long-grain-7925.html"
+  },
+  "couscous-moyen-1933": {
+   "nom": "COUSCOUS MOYEN",
+   "marque": "LES JARDINS DE LAYLAH®",
+   "unite_vente": "1KG",
+   "prix": 1.05,
+   "prix_base": {
+    "valeur": 1.05,
+    "par": "KG"
+   },
+   "valide_jusqu_au": "2026-11-17",
+   "url": "https://www.aldi.fr/fiches-produits/couscous-moyen-1933.html"
+  },
+  "huile-de-tournesol-0820": {
+   "nom": "HUILE DE TOURNESOL",
+   "marque": "BELLASAN®",
+   "unite_vente": "1L",
+   "prix": 1.62,
+   "prix_base": {
+    "valeur": 1.62,
+    "par": "L"
+   },
+   "valide_jusqu_au": "2026-11-17",
+   "url": "https://www.aldi.fr/fiches-produits/huile-de-tournesol-0820.html"
+  },
+  "huile-de-colza-0821": {
+   "nom": "HUILE DE COLZA",
+   "marque": "BELLASAN®",
+   "unite_vente": "1L",
+   "prix": 1.46,
+   "prix_base": {
+    "valeur": 1.46,
+    "par": "L"
+   },
+   "valide_jusqu_au": "2026-11-17",
+   "url": "https://www.aldi.fr/fiches-produits/huile-de-colza-0821.html"
+  },
+  "muesli-croustillant-5019856": {
+   "nom": "MUESLI CROUSTILLANT",
+   "marque": "GOLDEN BRIDGE®",
+   "unite_vente": "500G",
+   "prix": 2.25,
+   "prix_base": {
+    "valeur": 4.5,
+    "par": "KG"
+   },
+   "valide_jusqu_au": "2026-11-17",
+   "url": "https://www.aldi.fr/fiches-produits/muesli-croustillant-5019856.html"
+  },
+  "pommes-rissolees-9807": {
+   "nom": "Pommes rissolées",
+   "marque": "MR FRITES®",
+   "unite_vente": "1KG",
+   "prix": 0.99,
+   "prix_base": {
+    "valeur": 0.99,
+    "par": "KG"
+   },
+   "valide_jusqu_au": "2026-11-17",
+   "url": "https://www.aldi.fr/fiches-produits/pommes-rissolees-9807.html"
+  },
+  "puree-de-pommes-de-terre-1917": {
+   "nom": "PURÉE DE POMMES DE TERRE",
+   "marque": null,
+   "unite_vente": "500G",
+   "prix": 1.29,
+   "prix_base": {
+    "valeur": 2.58,
+    "par": "KG"
+   },
+   "valide_jusqu_au": "2026-11-29",
+   "url": "https://www.aldi.fr/fiches-produits/puree-de-pommes-de-terre-1917.html"
+  },
+  "coulommiers-8122": {
+   "nom": "COULOMMIERS",
+   "marque": "PRÉSIDENT®",
+   "unite_vente": "350G",
+   "prix": 2.72,
+   "prix_base": {
+    "valeur": 7.78,
+    "par": "KG"
+   },
+   "valide_jusqu_au": "2026-11-17",
+   "url": "https://www.aldi.fr/fiches-produits/coulommiers-8122.html"
+  },
+  "coulommiers-6545": {
+   "nom": "Coulommiers",
+   "marque": "LE PATURON®",
+   "unite_vente": "350G",
+   "prix": 1.99,
+   "prix_base": {
+    "valeur": 5.69,
+    "par": "KG"
+   },
+   "valide_jusqu_au": "2026-11-17",
+   "url": "https://www.aldi.fr/fiches-produits/coulommiers-6545.html"
+  },
+  "creme-fraiche-epaisse-legere-1719": {
+   "nom": "Crème fraîche épaisse légère",
+   "marque": "MILSANI®",
+   "unite_vente": "50CL",
+   "prix": 1.25,
+   "prix_base": {
+    "valeur": 2.5,
+    "par": "L"
+   },
+   "valide_jusqu_au": "2026-11-17",
+   "url": "https://www.aldi.fr/fiches-produits/creme-fraiche-epaisse-legere-1719.html"
+  },
+  "creme-fraiche-epaisse-6549": {
+   "nom": "Crème fraîche épaisse",
+   "marque": "MILSANI®",
+   "unite_vente": "50 cl",
+   "prix": 1.85,
+   "prix_base": {
+    "valeur": 3.7,
+    "par": "L"
+   },
+   "valide_jusqu_au": "2026-11-17",
+   "url": "https://www.aldi.fr/fiches-produits/creme-fraiche-epaisse-6549.html"
+  },
+  "beurre-allege-3468": {
+   "nom": "Beurre allégé",
+   "marque": "CHAMPRÉ®",
+   "unite_vente": "250G",
+   "prix": 1.65,
+   "prix_base": {
+    "valeur": 6.6,
+    "par": "KG"
+   },
+   "valide_jusqu_au": "2026-11-17",
+   "url": "https://www.aldi.fr/fiches-produits/beurre-allege-3468.html"
+  },
+  "beurre-doux-6572": {
+   "nom": "Beurre doux",
+   "marque": "MILSANI®",
+   "unite_vente": "250G",
+   "prix": 2.35,
+   "prix_base": {
+    "valeur": 9.4,
+    "par": "KG"
+   },
+   "valide_jusqu_au": "2026-11-17",
+   "url": "https://www.aldi.fr/fiches-produits/beurre-doux-6572.html"
+  },
+  "petits-suisses-6421": {
+   "nom": "Petits suisses",
+   "marque": "MILSANI®",
+   "unite_vente": "720 g",
+   "prix": 1.85,
+   "prix_base": {
+    "valeur": 2.57,
+    "par": "KG"
+   },
+   "valide_jusqu_au": "2026-11-17",
+   "url": "https://www.aldi.fr/fiches-produits/petits-suisses-6421.html"
+  },
+  "haricots-verts-extra-fins-4308": {
+   "nom": "Haricots verts extra fins",
+   "marque": "ALL SEASONS®",
+   "unite_vente": "440G",
+   "prix": 1.09,
+   "prix_base": {
+    "valeur": 2.48,
+    "par": "KG"
+   },
+   "valide_jusqu_au": "2026-11-17",
+   "url": "https://www.aldi.fr/fiches-produits/haricots-verts-extra-fins-4308.html"
+  },
+  "haricots-verts-extra-fins-1646": {
+   "nom": "Haricots verts extra fins",
+   "marque": "ALL SEASONS®",
+   "unite_vente": "1KG",
+   "prix": 1.85,
+   "prix_base": {
+    "valeur": 1.85,
+    "par": "KG"
+   },
+   "valide_jusqu_au": "2026-11-17",
+   "url": "https://www.aldi.fr/fiches-produits/haricots-verts-extra-fins-1646.html"
+  },
+  "macedoine-de-legumes-4306": {
+   "nom": "Macédoine de légumes",
+   "marque": "ALL SEASONS®",
+   "unite_vente": "530G",
+   "prix": 1.09,
+   "prix_base": {
+    "valeur": 2.06,
+    "par": "KG"
+   },
+   "valide_jusqu_au": "2026-11-17",
+   "url": "https://www.aldi.fr/fiches-produits/macedoine-de-legumes-4306.html"
+  },
+  "thon-albacore-au-naturel-5001845": {
+   "nom": "THON ALBACORE AU NATUREL",
+   "marque": "LES DORIS®",
+   "unite_vente": "140G",
+   "prix": 1.89,
+   "prix_base": {
+    "valeur": 13.5,
+    "par": "KG"
+   },
+   "valide_jusqu_au": "2026-11-17",
+   "url": "https://www.aldi.fr/fiches-produits/thon-albacore-au-naturel-5001845.html"
+  },
+  "cafe-soluble-selection-3310": {
+   "nom": "CAFÉ SOLUBLE SÉLECTION",
+   "marque": "BARISSIMO®",
+   "unite_vente": "200G",
+   "prix": 3.99,
+   "prix_base": {
+    "valeur": 19.95,
+    "par": "KG"
+   },
+   "valide_jusqu_au": "2026-11-17",
+   "url": "https://www.aldi.fr/fiches-produits/cafe-soluble-selection-3310.html"
+  },
+  "cafe-en-grains-5021992": {
+   "nom": "CAFÉ EN GRAINS",
+   "marque": "BARISSIMO®",
+   "unite_vente": "1KG",
+   "prix": 10.99,
+   "prix_base": {
+    "valeur": 10.99,
+    "par": "KG"
+   },
+   "valide_jusqu_au": "2026-10-26",
+   "url": "https://www.aldi.fr/fiches-produits/cafe-en-grains-5021992.html"
+  },
+  "eau-de-source-de-montagne-5005970": {
+   "nom": "Eau de source de montagne",
+   "marque": "ROCHEVAL®",
+   "unite_vente": "1.5L",
+   "prix": 0.28,
+   "prix_base": {
+    "valeur": 0.19,
+    "par": "L"
+   },
+   "valide_jusqu_au": "2026-11-17",
+   "url": "https://www.aldi.fr/fiches-produits/eau-de-source-de-montagne-5005970.html"
+  },
+  "vinaigre-dalcool-incolore-2068": {
+   "nom": "VINAIGRE D'ALCOOL INCOLORE",
+   "marque": "DILECTA®",
+   "unite_vente": "1L",
+   "prix": 0.39,
+   "prix_base": {
+    "valeur": 0.39,
+    "par": "L"
+   },
+   "valide_jusqu_au": "2026-11-17",
+   "url": "https://www.aldi.fr/fiches-produits/vinaigre-dalcool-incolore-2068.html"
+  },
+  "ratatouille-nicoise-4324": {
+   "nom": "Ratatouille Niçoise",
+   "marque": "FLEURS DES CHAMPS®",
+   "unite_vente": "750G",
+   "prix": 1.29,
+   "prix_base": {
+    "valeur": 1.72,
+    "par": "KG"
+   },
+   "valide_jusqu_au": "2026-11-17",
+   "url": "https://www.aldi.fr/fiches-produits/ratatouille-nicoise-4324.html"
+  },
+  "dattes-deglet-nour-2266": {
+   "nom": "Dattes deglet nour",
+   "marque": "TRADER JOE'S®",
+   "unite_vente": "500G",
+   "prix": 1.89,
+   "prix_base": {
+    "valeur": 3.78,
+    "par": "KG"
+   },
+   "valide_jusqu_au": "2026-11-17",
+   "url": "https://www.aldi.fr/fiches-produits/dattes-deglet-nour-2266.html"
+  },
+  "cacahuetes-grillees-salees-3608": {
+   "nom": "Cacahuètes grillées salées",
+   "marque": "TRADER JOE'S®",
+   "unite_vente": "250 g",
+   "prix": 0.85,
+   "prix_base": {
+    "valeur": 3.4,
+    "par": "KG"
+   },
+   "valide_jusqu_au": "2026-11-17",
+   "url": "https://www.aldi.fr/fiches-produits/cacahuetes-grillees-salees-3608.html"
+  },
+  "lait-demi-ecreme-brique-0602": {
+   "nom": "Lait demi-écrémé brique",
+   "marque": "MILSANI®",
+   "unite_vente": "1L",
+   "prix": 0.99,
+   "prix_base": {
+    "valeur": 0.99,
+    "par": "L"
+   },
+   "valide_jusqu_au": "2026-11-17",
+   "url": "https://www.aldi.fr/fiches-produits/lait-demi-ecreme-brique-0602.html"
+  },
+  "lait-uht-demi-ecreme-0600": {
+   "nom": "Lait UHT demi-écrémé",
+   "marque": "MILSANI®",
+   "unite_vente": "1L",
+   "prix": 0.96,
+   "prix_base": {
+    "valeur": 0.96,
+    "par": "L"
+   },
+   "valide_jusqu_au": "2026-11-17",
+   "url": "https://www.aldi.fr/fiches-produits/lait-uht-demi-ecreme-0600.html"
+  },
+  "12-oeufs-de-poules-elevees-au-sol-5004791": {
+   "nom": "12 œufs de poules élevées au sol",
+   "marque": "PICOTA®",
+   "unite_vente": "La boite",
+   "prix": 2.99,
+   "prix_base": {
+    "valeur": 2.99,
+    "par": "PIECE"
+   },
+   "valide_jusqu_au": "2026-11-17",
+   "url": "https://www.aldi.fr/fiches-produits/12-oeufs-de-poules-elevees-au-sol-5004791.html"
+  },
+  "yaourt-nature-5008321": {
+   "nom": "Yaourt nature",
+   "marque": "MILSANI®",
+   "unite_vente": "2000 g",
+   "prix": 2.25,
+   "prix_base": {
+    "valeur": 1.13,
+    "par": "KG"
+   },
+   "valide_jusqu_au": "2026-11-17",
+   "url": "https://www.aldi.fr/fiches-produits/yaourt-nature-5008321.html"
+  },
+  "farine-0510": {
+   "nom": "FARINE",
+   "marque": "ALBONA®",
+   "unite_vente": "1KG",
+   "prix": 0.65,
+   "prix_base": {
+    "valeur": 0.65,
+    "par": "KG"
+   },
+   "valide_jusqu_au": "2026-11-17",
+   "url": "https://www.aldi.fr/fiches-produits/farine-0510.html"
+  },
+  "sucre-en-poudre-0501": {
+   "nom": "SUCRE EN POUDRE",
+   "marque": "ALBONA®",
+   "unite_vente": "1KG",
+   "prix": 0.89,
+   "prix_base": {
+    "valeur": 0.89,
+    "par": "KG"
+   },
+   "valide_jusqu_au": "2026-11-17",
+   "url": "https://www.aldi.fr/fiches-produits/sucre-en-poudre-0501.html"
+  },
+  "wraps-5024092": {
+   "nom": "WRAPS",
+   "marque": "DAYLICIOUS®",
+   "unite_vente": "190g",
+   "prix": 2.45,
+   "prix_base": {
+    "valeur": 12.9,
+    "par": "KG"
+   },
+   "valide_jusqu_au": "2026-11-17",
+   "url": "https://www.aldi.fr/fiches-produits/wraps-5024092.html"
+  }
+ }
+}

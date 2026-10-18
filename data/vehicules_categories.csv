@@ -1,0 +1,19 @@
+categorie,motorisation,conso_ville,unite,nb_versions
+"Petite citadine (Twingo, Picanto, i10…)",Essence,5.6,L/100 km,11
+"Petite citadine (Twingo, Picanto, i10…)",Hybride essence,5.0,L/100 km,39
+"Petite citadine (Twingo, Picanto, i10…)",Électrique,15.9,kWh/100 km,38
+"Citadine (Clio, 208, Sandero…)",Diesel,5.7,L/100 km,201
+"Citadine (Clio, 208, Sandero…)",Essence,6.9,L/100 km,605
+"Citadine (Clio, 208, Sandero…)",Hybride essence,5.4,L/100 km,184
+"Citadine (Clio, 208, Sandero…)",Électrique,15.8,kWh/100 km,34
+"Compacte (Mégane, 308, Golf…)",Diesel,5.9,L/100 km,105
+"Compacte (Mégane, 308, Golf…)",Essence,7.2,L/100 km,467
+"Compacte (Mégane, 308, Golf…)",Hybride essence,6.7,L/100 km,93
+"Compacte (Mégane, 308, Golf…)",Électrique,16.2,kWh/100 km,27
+"Familiale ou SUV (3008, Tucson…)",Diesel,6.4,L/100 km,175
+"Familiale ou SUV (3008, Tucson…)",Essence,7.9,L/100 km,236
+"Familiale ou SUV (3008, Tucson…)",Hybride essence,7.0,L/100 km,156
+"Familiale ou SUV (3008, Tucson…)",Électrique,17.2,kWh/100 km,9
+Grande berline ou grand SUV,Diesel,6.7,L/100 km,86
+Grande berline ou grand SUV,Essence,10.3,L/100 km,88
+Grande berline ou grand SUV,Hybride essence,9.0,L/100 km,63

@@ -1,0 +1,849 @@
+{
+ "enseigne": "Lidl",
+ "source": "Lidl France, « Liste des produits comparés » (publicité comparative)",
+ "url_page": "https://www.lidl.fr/c/lidl-est-moins-cher/s10027822",
+ "url_document": "https://www.lidl.fr/static/assets/Liste_des_produits_compares-2435920.pdf",
+ "prix_releves_le": "2026-07-04",
+ "type_prix": "Prix national Lidl (identique dans tous les magasins Lidl de France)",
+ "collecte_le": "2026-10-18T13:40:00+02:00",
+ "methode": "Lecture automatique du document PDF publié par Lidl sur sa page publique.",
+ "paniers_compares": [
+  {
+   "enseigne": "E.Leclerc",
+   "total_lidl": 40.8,
+   "total_concurrent": 50.22
+  },
+  {
+   "enseigne": "Carrefour Hyper",
+   "total_lidl": 42.89,
+   "total_concurrent": 57.36
+  },
+  {
+   "enseigne": "Intermarché",
+   "total_lidl": 50.65,
+   "total_concurrent": 61.1
+  }
+ ],
+ "produits": {
+  "20004088": {
+   "nom": "Champignons de Paris 1er choix entiers",
+   "marque": "Freshona",
+   "quantite": 0.23,
+   "unite": "kg",
+   "prix": 0.98,
+   "concurrents_drive": [
+    {
+     "enseigne": "E.Leclerc",
+     "produit": "Champignons Paris Notre Jardin Entiers 230g",
+     "prix": 1.52
+    },
+    {
+     "enseigne": "Intermarché",
+     "produit": null,
+     "prix": 1.52
+    }
+   ]
+  },
+  "20004217": {
+   "nom": "Haricots verts extra-fins 440 g",
+   "marque": "Freshona",
+   "quantite": 0.44,
+   "unite": "kg",
+   "prix": 1.04,
+   "concurrents_drive": [
+    {
+     "enseigne": "E.Leclerc",
+     "produit": "Haricots verts Notre Jardin Extra fins 440g",
+     "prix": 1.2
+    },
+    {
+     "enseigne": "Carrefour Hyper",
+     "produit": null,
+     "prix": 1.2
+    },
+    {
+     "enseigne": "Intermarché",
+     "produit": null,
+     "prix": 1.2
+    }
+   ]
+  },
+  "20159917": {
+   "nom": "Corn Flakes",
+   "marque": "Crownfield",
+   "quantite": 0.5,
+   "unite": "kg",
+   "prix": 1.59,
+   "concurrents_drive": [
+    {
+     "enseigne": "E.Leclerc",
+     "produit": "Corn Flakes Grainéa Nature 500g",
+     "prix": 2.09
+    },
+    {
+     "enseigne": "Carrefour Hyper",
+     "produit": null,
+     "prix": 2.1
+    },
+    {
+     "enseigne": "Intermarché",
+     "produit": null,
+     "prix": 2.18
+    }
+   ]
+  },
+  "4052917424161": {
+   "nom": "Beurre allégé doux 60%",
+   "marque": "Envia",
+   "quantite": 0.25,
+   "unite": "kg",
+   "prix": 1.67,
+   "concurrents_drive": [
+    {
+     "enseigne": "E.Leclerc",
+     "produit": "Beurre allégé Les Croisés Doux 60% MG 250g",
+     "prix": 1.77
+    }
+   ]
+  },
+  "20009717": {
+   "nom": "Macédoine de légumes",
+   "marque": "Freshona",
+   "quantite": 0.53,
+   "unite": "kg",
+   "prix": 1.09,
+   "concurrents_drive": [
+    {
+     "enseigne": "E.Leclerc",
+     "produit": "Macédoine légumes Notre Jardin 530g",
+     "prix": 1.23
+    },
+    {
+     "enseigne": "Carrefour Hyper",
+     "produit": null,
+     "prix": 1.25
+    },
+    {
+     "enseigne": "Intermarché",
+     "produit": null,
+     "prix": 1.23
+    }
+   ]
+  },
+  "3178530422412": {
+   "nom": "Goûters gourmands",
+   "marque": "Lidl",
+   "quantite": 0.23,
+   "unite": "kg",
+   "prix": 0.93,
+   "concurrents_drive": [
+    {
+     "enseigne": "E.Leclerc",
+     "produit": "Biscuits fourrés P'tit Déli Coeur fondant chocolat 225g",
+     "prix": 1.23
+    }
+   ]
+  },
+  "20020736": {
+   "nom": "Crème fraîche épaisse 15%",
+   "marque": "Envia",
+   "quantite": 0.5,
+   "unite": "L",
+   "prix": 1.29,
+   "concurrents_drive": [
+    {
+     "enseigne": "E.Leclerc",
+     "produit": "Crème fraîche légère Délisse Epaisse 15% MG 50cl",
+     "prix": 1.46
+    }
+   ]
+  },
+  "20258507": {
+   "nom": "Purée nature",
+   "marque": null,
+   "quantite": 0.5,
+   "unite": "kg",
+   "prix": 1.34,
+   "concurrents_drive": [
+    {
+     "enseigne": "E.Leclerc",
+     "produit": "Purée pomme de terre Pom'lisse Nature 4x125g",
+     "prix": 1.85
+    },
+    {
+     "enseigne": "Carrefour Hyper",
+     "produit": null,
+     "prix": 1.86
+    },
+    {
+     "enseigne": "Intermarché",
+     "produit": null,
+     "prix": 1.94
+    }
+   ]
+  },
+  "20609559": {
+   "nom": "Pommes rissolées",
+   "marque": null,
+   "quantite": 1.0,
+   "unite": "kg",
+   "prix": 0.99,
+   "concurrents_drive": [
+    {
+     "enseigne": "E.Leclerc",
+     "produit": "Pommes rissolées Pom'lisse 1kg",
+     "prix": 1.56
+    },
+    {
+     "enseigne": "Carrefour Hyper",
+     "produit": null,
+     "prix": 1.85
+    }
+   ]
+  },
+  "20637538": {
+   "nom": "Coulommiers",
+   "marque": null,
+   "quantite": 0.35,
+   "unite": "kg",
+   "prix": 1.93,
+   "concurrents_drive": [
+    {
+     "enseigne": "E.Leclerc",
+     "produit": null,
+     "prix": 2.15
+    },
+    {
+     "enseigne": "Intermarché",
+     "produit": null,
+     "prix": 2.16
+    }
+   ]
+  },
+  "4056489135531": {
+   "nom": "Huile de tournesol",
+   "marque": "Vita D'or",
+   "quantite": 1.0,
+   "unite": "L",
+   "prix": 1.62,
+   "concurrents_drive": [
+    {
+     "enseigne": "E.Leclerc",
+     "produit": "Huile de tournesol Rustica 1L",
+     "prix": 1.99
+    },
+    {
+     "enseigne": "Intermarché",
+     "produit": null,
+     "prix": 2.01
+    }
+   ]
+  },
+  "4056489168232": {
+   "nom": "Riz thaï",
+   "marque": "Golden Sun",
+   "quantite": 1.0,
+   "unite": "kg",
+   "prix": 1.57,
+   "concurrents_drive": [
+    {
+     "enseigne": "E.Leclerc",
+     "produit": "Riz Thaï Comptoir du Grain 1kg",
+     "prix": 2.25
+    },
+    {
+     "enseigne": "Carrefour Hyper",
+     "produit": null,
+     "prix": 2.26
+    },
+    {
+     "enseigne": "Intermarché",
+     "produit": null,
+     "prix": 2.25
+    }
+   ]
+  },
+  "4056489301370": {
+   "nom": "Spécialité fromagère ail & fines herbes",
+   "marque": "Milbona",
+   "quantite": 0.15,
+   "unite": "kg",
+   "prix": 0.99,
+   "concurrents_drive": [
+    {
+     "enseigne": "E.Leclerc",
+     "produit": null,
+     "prix": 1.29
+    },
+    {
+     "enseigne": "Carrefour Hyper",
+     "produit": null,
+     "prix": 1.31
+    }
+   ]
+  },
+  "4056489362043": {
+   "nom": "Dattes",
+   "marque": "Alesto",
+   "quantite": 0.5,
+   "unite": "kg",
+   "prix": 1.89,
+   "concurrents_drive": [
+    {
+     "enseigne": "E.Leclerc",
+     "produit": "Dattes Couleurs Vives 500g",
+     "prix": 2.75
+    },
+    {
+     "enseigne": "Carrefour Hyper",
+     "produit": null,
+     "prix": 2.76
+    }
+   ]
+  },
+  "4056489362692": {
+   "nom": "Couscous moyen",
+   "marque": "Golden Sun",
+   "quantite": 1.0,
+   "unite": "kg",
+   "prix": 1.05,
+   "concurrents_drive": [
+    {
+     "enseigne": "E.Leclerc",
+     "produit": "Couscous Comptoir du Grain Grain moyen 1kg",
+     "prix": 1.47
+    },
+    {
+     "enseigne": "Carrefour Hyper",
+     "produit": null,
+     "prix": 1.7
+    }
+   ]
+  },
+  "4056489369097": {
+   "nom": "Barquette chien au bœuf",
+   "marque": "Orlando",
+   "quantite": 0.3,
+   "unite": "kg",
+   "prix": 1.29,
+   "concurrents_drive": [
+    {
+     "enseigne": "E.Leclerc",
+     "produit": "Barquette chiens Lydog Au Boeuf et Coeur 300g",
+     "prix": 1.54
+    },
+    {
+     "enseigne": "Intermarché",
+     "produit": null,
+     "prix": 1.56
+    }
+   ]
+  },
+  "4056489608233": {
+   "nom": "Crème fouettée vanille entière",
+   "marque": "Envia",
+   "quantite": 0.25,
+   "unite": "kg",
+   "prix": 1.55,
+   "concurrents_drive": [
+    {
+     "enseigne": "E.Leclerc",
+     "produit": null,
+     "prix": 1.85
+    }
+   ]
+  },
+  "4056489818151": {
+   "nom": "Spaghetti",
+   "marque": "Combino",
+   "quantite": 1.0,
+   "unite": "kg",
+   "prix": 0.88,
+   "concurrents_drive": [
+    {
+     "enseigne": "E.Leclerc",
+     "produit": "Pâtes Spaghetti Turini 1kg",
+     "prix": 1.33
+    },
+    {
+     "enseigne": "Carrefour Hyper",
+     "produit": "Pâtes spaghetti Carrefour 1kg",
+     "prix": 1.35
+    },
+    {
+     "enseigne": "Intermarché",
+     "produit": null,
+     "prix": 1.33
+    }
+   ]
+  },
+  "4013159604551": {
+   "nom": "Penne",
+   "marque": "Combino",
+   "quantite": 0.5,
+   "unite": "kg",
+   "prix": 0.55,
+   "concurrents_drive": [
+    {
+     "enseigne": "E.Leclerc",
+     "produit": "Pâtes Penne Regate Turini 500g",
+     "prix": 0.61
+    }
+   ]
+  },
+  "20379926": {
+   "nom": "Boulettes au bœuf VBF 15% MG",
+   "marque": null,
+   "quantite": 0.9,
+   "unite": "kg",
+   "prix": 7.17,
+   "concurrents_drive": [
+    {
+     "enseigne": "E.Leclerc",
+     "produit": "Boulettes de boeuf Férial x30 900g",
+     "prix": 8.0
+    },
+    {
+     "enseigne": "Carrefour Hyper",
+     "produit": null,
+     "prix": 8.35
+    }
+   ]
+  },
+  "4056489176688": {
+   "nom": "Fromage fondu en tranches croque-monsieur",
+   "marque": "Tenery",
+   "quantite": 0.2,
+   "unite": "kg",
+   "prix": 1.08,
+   "concurrents_drive": [
+    {
+     "enseigne": "E.Leclerc",
+     "produit": null,
+     "prix": 1.19
+    }
+   ]
+  },
+  "20013578": {
+   "nom": "Huile de colza",
+   "marque": "Vita D'or",
+   "quantite": 1.0,
+   "unite": "L",
+   "prix": 1.46,
+   "concurrents_drive": [
+    {
+     "enseigne": "E.Leclerc",
+     "produit": "Huile de colza Rustica 1L",
+     "prix": 1.76
+    },
+    {
+     "enseigne": "Carrefour Hyper",
+     "produit": null,
+     "prix": 1.89
+    },
+    {
+     "enseigne": "Intermarché",
+     "produit": null,
+     "prix": 1.76
+    }
+   ]
+  },
+  "20245900": {
+   "nom": "Pur jus d'orange d'Espagne",
+   "marque": "Solevita",
+   "quantite": 1.0,
+   "unite": "L",
+   "prix": 1.85,
+   "concurrents_drive": [
+    {
+     "enseigne": "E.Leclerc",
+     "produit": "100% Pur jus d'orange Jafaden Sans pulpe 1L",
+     "prix": 1.99
+    }
+   ]
+  },
+  "20060398": {
+   "nom": "Haricots verts très fins 440 g",
+   "marque": "Freshona",
+   "quantite": 0.44,
+   "unite": "kg",
+   "prix": 1.01,
+   "concurrents_drive": [
+    {
+     "enseigne": "E.Leclerc",
+     "produit": "Haricots verts Notre Jardin Très fins 440g",
+     "prix": 1.15
+    },
+    {
+     "enseigne": "Carrefour Hyper",
+     "produit": null,
+     "prix": 1.19
+    }
+   ]
+  },
+  "20277079": {
+   "nom": "Prosecco DOP",
+   "marque": "Allini",
+   "quantite": 0.75,
+   "unite": "L",
+   "prix": 3.99,
+   "concurrents_drive": [
+    {
+     "enseigne": "E.Leclerc",
+     "produit": "AOP Prosecco extra-dry 75cl",
+     "prix": 4.99
+    }
+   ]
+  },
+  "20001872": {
+   "nom": "Calamars à la romaine",
+   "marque": "Ocean Sea",
+   "quantite": 0.5,
+   "unite": "kg",
+   "prix": 2.35,
+   "concurrents_drive": [
+    {
+     "enseigne": "Carrefour Hyper",
+     "produit": null,
+     "prix": 4.24
+    }
+   ]
+  },
+  "20003432": {
+   "nom": "Amandes en poudre",
+   "marque": "Belbake",
+   "quantite": 0.2,
+   "unite": "kg",
+   "prix": 2.38,
+   "concurrents_drive": [
+    {
+     "enseigne": "Carrefour Hyper",
+     "produit": null,
+     "prix": 3.66
+    }
+   ]
+  },
+  "20615420": {
+   "nom": "Cacahuètes grillées",
+   "marque": "Alesto",
+   "quantite": 0.2,
+   "unite": "kg",
+   "prix": 0.76,
+   "concurrents_drive": [
+    {
+     "enseigne": "Carrefour Hyper",
+     "produit": null,
+     "prix": 0.92
+    }
+   ]
+  },
+  "4056489170716": {
+   "nom": "Fuet extra",
+   "marque": "Saint Alby",
+   "quantite": 0.17,
+   "unite": "kg",
+   "prix": 2.09,
+   "concurrents_drive": [
+    {
+     "enseigne": "Carrefour Hyper",
+     "produit": null,
+     "prix": 2.39
+    }
+   ]
+  },
+  "4056489565314": {
+   "nom": "Ratatouille",
+   "marque": "Freshona",
+   "quantite": 0.75,
+   "unite": "kg",
+   "prix": 1.29,
+   "concurrents_drive": [
+    {
+     "enseigne": "Carrefour Hyper",
+     "produit": null,
+     "prix": 1.82
+    }
+   ]
+  },
+  "4056489213949": {
+   "nom": "Mallow Cocktail",
+   "marque": "Sweet Corner",
+   "quantite": 0.3,
+   "unite": "kg",
+   "prix": 1.24,
+   "concurrents_drive": [
+    {
+     "enseigne": "Carrefour Hyper",
+     "produit": null,
+     "prix": 1.48
+    }
+   ]
+  },
+  "20021917": {
+   "nom": "Saucisse sèche droite",
+   "marque": "Saint Alby",
+   "quantite": 0.25,
+   "unite": "kg",
+   "prix": 1.67,
+   "concurrents_drive": [
+    {
+     "enseigne": "Carrefour Hyper",
+     "produit": null,
+     "prix": 2.99
+    }
+   ]
+  },
+  "20119676": {
+   "nom": "Wraps",
+   "marque": "Snack Day",
+   "quantite": 0.37,
+   "unite": "kg",
+   "prix": 1.95,
+   "concurrents_drive": [
+    {
+     "enseigne": "Carrefour Hyper",
+     "produit": null,
+     "prix": 2.36
+    }
+   ]
+  },
+  "20182137": {
+   "nom": "Petits suisses nature 40%",
+   "marque": "Envia",
+   "quantite": 0.72,
+   "unite": "kg",
+   "prix": 1.86,
+   "concurrents_drive": [
+    {
+     "enseigne": "Carrefour Hyper",
+     "produit": null,
+     "prix": 2.1
+    }
+   ]
+  },
+  "20626570": {
+   "nom": "Fromages frais aux fruits",
+   "marque": "Envia",
+   "quantite": 0.9,
+   "unite": "kg",
+   "prix": 2.14,
+   "concurrents_drive": [
+    {
+     "enseigne": "Carrefour Hyper",
+     "produit": null,
+     "prix": 2.49
+    }
+   ]
+  },
+  "20712983": {
+   "nom": "Vinaigre d'alcool blanc 8°",
+   "marque": "Kania",
+   "quantite": 1.0,
+   "unite": "L",
+   "prix": 0.4,
+   "concurrents_drive": [
+    {
+     "enseigne": "Carrefour Hyper",
+     "produit": null,
+     "prix": 0.55
+    }
+   ]
+  },
+  "20775018": {
+   "nom": "Muesli 3 chocolats",
+   "marque": "Crownfield",
+   "quantite": 0.5,
+   "unite": "kg",
+   "prix": 2.69,
+   "concurrents_drive": [
+    {
+     "enseigne": "Carrefour Hyper",
+     "produit": null,
+     "prix": 3.29
+    }
+   ]
+  },
+  "20023218": {
+   "nom": "Sauce tomate cuisinée aux légumes",
+   "marque": "Combino",
+   "quantite": 0.42,
+   "unite": "kg",
+   "prix": 0.78,
+   "concurrents_drive": [
+    {
+     "enseigne": "Intermarché",
+     "produit": null,
+     "prix": 0.92
+    }
+   ]
+  },
+  "20093273": {
+   "nom": "Pur jus d'ananas",
+   "marque": "Solevita",
+   "quantite": 1.0,
+   "unite": "L",
+   "prix": 2.0,
+   "concurrents_drive": [
+    {
+     "enseigne": "Intermarché",
+     "produit": null,
+     "prix": 2.24
+    }
+   ]
+  },
+  "20995706": {
+   "nom": "Thon albacore au naturel",
+   "marque": "Nixe",
+   "quantite": 0.28,
+   "unite": "kg",
+   "prix": 3.75,
+   "concurrents_drive": [
+    {
+     "enseigne": "Intermarché",
+     "produit": null,
+     "prix": 4.11
+    }
+   ]
+  },
+  "4056489012450": {
+   "nom": "Nectar d'abricot",
+   "marque": "Solevita",
+   "quantite": 1.0,
+   "unite": "L",
+   "prix": 1.4,
+   "concurrents_drive": [
+    {
+     "enseigne": "Intermarché",
+     "produit": null,
+     "prix": 2.74
+    }
+   ]
+  },
+  "4056489305170": {
+   "nom": "Eau pétillante aromatisée citron",
+   "marque": "Saguaro",
+   "quantite": 3.0,
+   "unite": "L",
+   "prix": 2.99,
+   "concurrents_drive": [
+    {
+     "enseigne": "Intermarché",
+     "produit": null,
+     "prix": 3.44
+    }
+   ]
+  },
+  "4056489308904": {
+   "nom": "Litière chat non agglomérante",
+   "marque": "Coshida",
+   "quantite": 10.0,
+   "unite": "L",
+   "prix": 4.65,
+   "concurrents_drive": [
+    {
+     "enseigne": "Intermarché",
+     "produit": null,
+     "prix": 4.89
+    }
+   ]
+  },
+  "4056489371700": {
+   "nom": "Briochettes rondes",
+   "marque": null,
+   "quantite": 0.48,
+   "unite": "kg",
+   "prix": 1.49,
+   "concurrents_drive": [
+    {
+     "enseigne": "Intermarché",
+     "produit": null,
+     "prix": 1.69
+    }
+   ]
+  },
+  "4056489678823": {
+   "nom": "Petit beurre tablette chocolat noir",
+   "marque": "Sondey",
+   "quantite": 0.25,
+   "unite": "kg",
+   "prix": 2.25,
+   "concurrents_drive": [
+    {
+     "enseigne": "Intermarché",
+     "produit": null,
+     "prix": 2.49
+    }
+   ]
+  },
+  "20562175": {
+   "nom": "Eau de source de montagne",
+   "marque": "Saguaro",
+   "quantite": 1.5,
+   "unite": "L",
+   "prix": 0.28,
+   "concurrents_drive": [
+    {
+     "enseigne": "Intermarché",
+     "produit": null,
+     "prix": 0.37
+    }
+   ]
+  },
+  "4056489798415": {
+   "nom": "Café soluble",
+   "marque": "Bellarom",
+   "quantite": 0.2,
+   "unite": "kg",
+   "prix": 3.99,
+   "concurrents_drive": [
+    {
+     "enseigne": "Intermarché",
+     "produit": null,
+     "prix": 4.75
+    }
+   ]
+  },
+  "20219833": {
+   "nom": "Gaufrettes praliné noisettes",
+   "marque": "Sondey",
+   "quantite": 0.11,
+   "unite": "kg",
+   "prix": 0.78,
+   "concurrents_drive": [
+    {
+     "enseigne": "Intermarché",
+     "produit": null,
+     "prix": 0.87
+    }
+   ]
+  },
+  "20712679": {
+   "nom": "Bonbons menthe",
+   "marque": "Amanie",
+   "quantite": 0.25,
+   "unite": "kg",
+   "prix": 1.32,
+   "concurrents_drive": [
+    {
+     "enseigne": "Intermarché",
+     "produit": null,
+     "prix": 1.57
+    }
+   ]
+  },
+  "4056489370949": {
+   "nom": "Café en grains origine Brésil",
+   "marque": "Bellarom",
+   "quantite": 0.5,
+   "unite": "kg",
+   "prix": 8.49,
+   "concurrents_drive": [
+    {
+     "enseigne": "Intermarché",
+     "produit": null,
+     "prix": 10.13
+    }
+   ]
+  }
+ }
+}

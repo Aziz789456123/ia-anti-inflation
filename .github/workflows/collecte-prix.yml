@@ -1,0 +1,31 @@
+name: Collecte des prix Lidl et Aldi
+
+on:
+  schedule:
+    # Tous les jours à 4 h 15 UTC (6 h 15 à Paris en été, 5 h 15 en hiver).
+    # Les prix en magasin changent au plus une fois par semaine : une collecte par jour suffit.
+    - cron: "15 4 * * *"
+  workflow_dispatch: {}   # bouton « Run workflow » pour lancer une collecte à la main
+
+permissions:
+  contents: write
+
+jobs:
+  collecte:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements-collecte.txt
+      - name: Collecter les prix
+        run: python -m collecte
+      - name: Enregistrer les nouveaux prix
+        run: |
+          git config user.name "robot-collecte"
+          git config user.email "robot-collecte@users.noreply.github.com"
+          git add data/prix_aldi.json data/prix_lidl.json data/promos_lidl.json
+          git diff --staged --quiet || git commit -m "Prix mis à jour automatiquement"
+          git push

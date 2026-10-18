@@ -1,0 +1,10 @@
+streamlit>=1.45
+pandas>=2.0
+plotly>=5.20
+folium>=0.17
+streamlit-folium>=0.22
+streamlit-js-eval>=0.1.7
+streamlit-searchbox>=0.1.16
+requests>=2.31
+anthropic>=0.40
+pillow>=10.0

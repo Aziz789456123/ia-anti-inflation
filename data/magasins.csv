@@ -1,0 +1,10 @@
+id,enseigne,nom,format,adresse,latitude,longitude,osm
+LIDL_SAINT_FERJEUX,Lidl,Lidl Saint-Ferjeux,Discount,"Rue de Dole, 25000 Besançon",47.22853,5.98501,node/7039397537
+LIDL_MARMIER,Lidl,Lidl Xavier-Marmier,Discount,"Rue Ousmane Sow, 25000 Besançon",47.24210,6.00940,node/12197439282
+LIDL_SAINT_CLAUDE,Lidl,Lidl Saint-Claude,Discount,"27 boulevard Léon Blum, 25000 Besançon",47.25599,6.01909,node/2439700974
+LIDL_CHALEZEULE,Lidl,Lidl Chalezeule,Discount,"D683, 25220 Chalezeule",47.26406,6.06212,node/8047539148
+LIDL_CHATILLON,Lidl,Lidl Châtillon-le-Duc,Discount,"Rue Ariane II, 25870 Châtillon-le-Duc",47.28630,5.99233,way/87001051
+ALDI_MARMIER,Aldi,Aldi Xavier-Marmier,Discount,"2 place du Maréchal Leclerc, 25000 Besançon",47.24201,6.01399,node/10032267623
+ALDI_CHATEAUFARINE,Aldi,Aldi Châteaufarine,Discount,"Rue René Char, 25000 Besançon",47.21841,5.95478,way/72367694
+ALDI_PIREY,Aldi,Aldi Pirey,Discount,"D75, 25480 Pirey",47.25373,5.96105,way/91276514
+ALDI_ECOLE_VALENTIN,Aldi,Aldi École-Valentin,Discount,"39 rue de Châtillon, 25480 École-Valentin",47.28086,5.99176,way/87258413
