@@ -10,6 +10,15 @@ calcule le **vrai trajet** depuis l'endroit où vous êtes, ce que votre voiture
 
 ---
 
+## Deux versions
+
+| Fichier | Pour qui | Ce qu'on voit |
+|---|---|---|
+| `app.py` | **Le consommateur** | 3 questions (ma liste en photo, d'où je pars, comment j'y vais), puis la réponse : « Va chez… », le prix total trajet compris, l'économie, la carte et le bouton GPS |
+| `app_complet.py` | **La présentation** (jury, professeure) | Tout le détail : comparaison des options, prix de l'essence station par station, promos, sources |
+
+Pour mettre la version complète en ligne aussi : sur share.streamlit.io, **Create app**, même dépôt, fichier `app_complet.py`.
+
 ## Ce que fait l'application
 
 | | |
@@ -71,7 +80,8 @@ paquets de 500 g, on compte deux paquets pour 1 kg (`data/panier.csv`).
 
 ```
 ia-anti-inflation/
-├── app.py                      # l'application (Streamlit)
+├── app.py                      # version consommateur, épurée
+├── app_complet.py              # version détaillée pour la présentation
 ├── moteur/
 │   ├── optimiseur.py           # la décision : meilleur plan, règle du détour
 │   ├── geo.py                  # itinéraires routiers, instructions GPS en français
